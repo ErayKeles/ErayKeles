@@ -1,5 +1,4 @@
 <h1 align="center">Hi :) , I'm Eray KELEŞ</h1>
-<h3 align="center">Ordinary citizen interested in Cyber ​​Security</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@eraykelesk](https://medium.com/@eraykelesk)
 
