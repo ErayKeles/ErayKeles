@@ -1,4 +1,3 @@
-![cyber-security-1805246_1920](https://github.com/ErayKeles/ErayKeles/assets/128937269/7853c4f6-ebd9-4936-9d78-d1e2c016fd08)
 <h1 align="center">Hi :) , I'm Eray KELEŞ</h1>
 <h3 align="center">Ordinary citizen interested in Cyber ​​Security</h3>
 
