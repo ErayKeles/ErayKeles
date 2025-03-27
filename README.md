@@ -51,7 +51,6 @@ Hey there! I'm **Eray KELEŞ**, a passionate Computer Engineering student who th
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ErayKeles&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
       <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ErayKeles&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ErayKeles&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
